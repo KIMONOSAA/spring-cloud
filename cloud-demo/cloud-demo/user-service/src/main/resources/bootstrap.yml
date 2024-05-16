@@ -1,0 +1,11 @@
+# 比application.yml优先级高这是为了能被nacos配置中心覆盖
+spring:
+  application:
+    name: uservices
+  profiles:
+    active: dev
+  cloud:
+    nacos:
+      server-addr: localhost:80
+      config:
+        file-extension: yaml

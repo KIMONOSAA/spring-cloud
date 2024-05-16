@@ -1,0 +1,34 @@
+2024-05-15 20:29:35,913 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2024-05-15 20:29:35,982 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2024-05-15 20:29:36,420 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2024-05-15 20:29:36,424 INFO The number of active nodes increment to 1.
+
+2024-05-15 20:29:36,818 INFO Starts FSMCaller successfully.
+
+2024-05-15 20:29:36,824 WARN No data for snapshot reader E:\web\Heima\nacos1\data\protocol\raft\naming_persistent_service\snapshot.
+
+2024-05-15 20:29:36,837 INFO Node <naming_persistent_service/192.168.63.1:7841> init, term=0, lastLogId=LogId [index=0, term=0], conf=192.168.63.1:7841, oldConf=.
+
+2024-05-15 20:29:36,839 INFO Node <naming_persistent_service/192.168.63.1:7841> start vote and grant vote self, term=0.
+
+2024-05-15 20:29:36,886 WARN Unable to fsync directory E:\web\Heima\nacos1\data\protocol\raft\naming_persistent_service\meta-data on windows.
+
+2024-05-15 20:29:36,889 INFO Save raft meta, path=E:\web\Heima\nacos1\data\protocol\raft\naming_persistent_service\meta-data, term=1, votedFor=192.168.63.1:7841, cost time=46 ms
+
+2024-05-15 20:29:36,890 INFO Node <naming_persistent_service/192.168.63.1:7841> become leader of group, term=1, conf=192.168.63.1:7841, oldConf=.
+
+2024-05-15 20:29:36,892 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2024-05-15 20:29:36,894 WARN RPC server is not started in RaftGroupService.
+
+2024-05-15 20:29:36,894 INFO Start the RaftGroupService successfully.
+
+2024-05-15 20:29:36,932 INFO onLeaderStart: term=1.
+
+2024-05-15 20:29:36,952 WARN Channel in TRANSIENT_FAILURE state: 192.168.63.1:7841.
+
+2024-05-15 20:29:36,953 WARN Channel in SHUTDOWN state: 192.168.63.1:7841.
+

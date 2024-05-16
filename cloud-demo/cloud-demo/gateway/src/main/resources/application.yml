@@ -1,0 +1,18 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: gateway
+  cloud:
+    nacos:
+      server-addr: localhost:80
+    gateway:
+      routes:
+        - id: user-service
+          uri: lb://uservices
+          predicates:
+            - Path=/user/**
+        - id: order-service
+          uri: lb://orderserver
+          predicates:               #有很多种路由规则可以到spring cloud 的gateway官网查看
+            - Path=/order/**

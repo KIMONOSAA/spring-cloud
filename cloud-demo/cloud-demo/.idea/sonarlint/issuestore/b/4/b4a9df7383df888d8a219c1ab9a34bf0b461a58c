@@ -1,0 +1,13 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÓàÒ¬÷1J$53d1d502-3ce0-40cb-b1bd-83fec3bc88b9
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÔàÒ¬÷1J$5066b0a0-f3a6-4d8a-9b0c-4a421d352da1
+~	java:S125"<This block of commented-out lines of code should be removed.(÷¼ßÅ8ØàÒ¬÷1J$99db71f2-05a1-4483-8778-a6c1ed15793e
+’
+java:S1128"ORemove this unused import 'com.alibaba.nacos.api.config.annotation.NacosValue'.(İ«Ü¾8°™•Í÷1J$660918e3-9930-42a3-9c57-82d94cdd3d68
+’
+java:S1128	"ORemove this unused import 'org.springframework.beans.factory.annotation.Value'.(ìø›8°™•Í÷1J$0e728a4c-0f40-4ff1-823f-d2a0d2a30a3a
+¥
+java:S1128
+"]Remove this unused import 'org.springframework.cloud.context.config.annotation.RefreshScope'.(­¾î²ûÿÿÿÿ8±™•Í÷1J$36772724-f40d-4d65-a343-a8084f013c61

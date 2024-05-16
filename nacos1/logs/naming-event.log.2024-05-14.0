@@ -1,0 +1,154 @@
+2024-05-14 15:47:14,503 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 15:47:14,504 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 15:47:29,445 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:8080@DEFAULT@DEFAULT_GROUP@@orderserver, region: unknown, msg: client timeout after 15000, last beat: 1715672832023
+
+2024-05-14 15:47:42,161 INFO service: DEFAULT_GROUP@@orderserver {POS} {IP-ENABLED} valid: 192.168.63.1:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-14 15:48:14,522 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:8080@DEFAULT@DEFAULT_GROUP@@orderserver, region: unknown, msg: client timeout after 15000, last beat: 1715672877234
+
+2024-05-14 15:48:17,319 INFO service: DEFAULT_GROUP@@orderserver {POS} {IP-ENABLED} valid: 192.168.63.1:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-14 15:50:40,185 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 15:50:40,185 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 15:51:15,329 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 15:51:15,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 15:51:17,525 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 15:51:44,861 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:8080@DEFAULT@DEFAULT_GROUP@@orderserver, region: unknown, msg: client timeout after 15000, last beat: 1715673085367
+
+2024-05-14 15:51:45,417 INFO service: DEFAULT_GROUP@@orderserver {POS} {IP-ENABLED} valid: 192.168.63.1:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-14 15:53:34,775 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 15:53:34,775 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 15:53:35,872 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 15:53:35,872 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 15:53:37,988 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 15:55:00,175 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:8080@DEFAULT@DEFAULT_GROUP@@orderserver, region: unknown, msg: client timeout after 15000, last beat: 1715673281102
+
+2024-05-14 15:55:06,207 INFO service: DEFAULT_GROUP@@orderserver {POS} {IP-ENABLED} valid: 192.168.63.1:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-14 16:00:14,183 INFO DEFAULT_GROUP@@uservices {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:9194:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:00:14,184 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-14 16:00:18,347 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-14 16:33:08,826 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:33:08,826 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:35:42,727 INFO DEFAULT_GROUP@@uservices {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:9194:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:35:42,727 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 
+
+2024-05-14 16:35:47,434 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 
+
+2024-05-14 16:35:59,314 INFO DEFAULT_GROUP@@uservices {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:9194:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:35:59,314 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-14 16:36:03,768 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-14 16:42:45,961 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:42:45,961 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 16:44:27,316 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:44:27,316 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:44:27,710 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:46:42,424 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:46:42,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 16:46:44,405 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 16:49:17,652 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:49:17,652 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:49:17,980 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:51:20,074 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:51:20,074 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 16:53:20,757 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:53:20,757 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:53:33,100 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:53:33,100 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 16:53:34,257 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 16:56:58,448 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:56:58,448 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:57:00,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 16:57:18,480 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 16:57:18,480 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 16:57:19,076 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 17:01:33,844 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:01:33,844 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 17:01:35,041 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 17:01:52,452 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:01:52,452 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 17:02:53,995 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:02:53,995 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 17:02:54,870 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 17:03:41,392 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:03:41,392 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 17:19:10,663 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:19:10,663 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 17:19:11,284 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-14 17:23:05,729 INFO DEFAULT_GROUP@@uservices {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:9194:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:23:05,729 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 
+
+2024-05-14 17:23:09,291 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 
+
+2024-05-14 17:24:17,718 INFO DEFAULT_GROUP@@uservices {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:9194:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:24:17,718 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-14 17:24:20,958 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-14 17:24:36,218 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-14 17:24:36,218 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-14 17:24:36,295 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+

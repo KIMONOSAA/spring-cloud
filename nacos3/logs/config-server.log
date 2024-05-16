@@ -1,0 +1,34 @@
+2024-05-15 20:34:31,425 INFO notifyConnectTimeout:200
+
+2024-05-15 20:34:31,432 INFO notifySocketTimeout:8000
+
+2024-05-15 20:34:31,432 INFO isHealthCheck:true
+
+2024-05-15 20:34:31,432 INFO maxHealthCheckFailCount:12
+
+2024-05-15 20:34:31,432 INFO maxContent:10485760
+
+2024-05-15 20:34:40,096 WARN DumpService start
+
+2024-05-15 20:34:40,097 INFO start clear all config-info.
+
+2024-05-15 20:34:40,098 WARN clear all config-info failed.
+
+2024-05-15 20:34:40,098 WARN clear all config-info-tenant failed.
+
+2024-05-15 20:34:40,131 INFO [all-dump] 1 / 1
+
+2024-05-15 20:34:40,131 INFO start clear all config-info-beta.
+
+2024-05-15 20:34:40,131 WARN clear all config-info-beta failed.
+
+2024-05-15 20:34:40,131 WARN clear all config-info-beta-tenant failed.
+
+2024-05-15 20:34:40,132 INFO start clear all config-info-tag.
+
+2024-05-15 20:34:40,132 WARN clear all config-info-tag failed.
+
+2024-05-15 20:34:40,132 WARN clear all config-info-tag-tenant failed.
+
+2024-05-15 20:34:40,136 WARN initialDelay:322
+

@@ -1,0 +1,42 @@
+2024-05-15 20:36:35,378 INFO DEFAULT_GROUP@@uservices is changed, add it to push queue.
+
+2024-05-15 20:36:43,270 INFO DEFAULT_GROUP@@orderserver is changed, add it to push queue.
+
+2024-05-15 20:36:48,324 INFO DEFAULT_GROUP@@orderserver is changed, add it to push queue.
+
+2024-05-15 20:36:50,135 INFO DEFAULT_GROUP@@uservices is changed, add it to push queue.
+
+2024-05-15 20:37:03,092 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:37:03,122 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.63.1:62215, agent: Nacos-Java-Client:v1.4.1, key: 192.168.63.1,62215,106935739140100
+
+2024-05-15 20:37:03,122 INFO send udp packet: 192.168.63.1,62215,106935739140100
+
+2024-05-15 20:37:03,162 INFO received ack: {"type": "push-ack", "lastRefTime":"106935739140100", "data":""} from: 192.168.63.1:62215, cost: 40 ms, unacked: 0, total push: 1
+
+2024-05-15 20:37:05,384 INFO DEFAULT_GROUP@@uservices is changed, add it to push queue.
+
+2024-05-15 20:37:08,288 INFO DEFAULT_GROUP@@orderserver is changed, add it to push queue.
+
+2024-05-15 20:37:13,168 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:37:23,282 INFO DEFAULT_GROUP@@orderserver is changed, add it to push queue.
+
+2024-05-15 20:37:38,329 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:37:48,396 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:37:58,665 INFO DEFAULT_GROUP@@orderserver is changed, add it to push queue.
+
+2024-05-15 20:38:08,111 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:38:18,533 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:38:31,504 INFO DEFAULT_GROUP@@uservices is changed, add it to push queue.
+
+2024-05-15 20:38:38,115 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:38:53,123 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2024-05-15 20:38:56,640 INFO DEFAULT_GROUP@@uservices is changed, add it to push queue.
+

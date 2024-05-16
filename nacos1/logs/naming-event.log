@@ -1,0 +1,64 @@
+2024-05-15 20:36:23,891 INFO DEFAULT_GROUP@@uservices {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:9194:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-15 20:36:23,894 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-15 20:36:37,228 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-15 20:36:37,228 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-15 20:36:52,239 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:8080@DEFAULT@DEFAULT_GROUP@@orderserver, region: unknown, msg: client timeout after 15000, last beat: 1715776597227
+
+2024-05-15 20:36:57,083 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-15 20:36:57,083 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.63.1:10010_true,
+
+2024-05-15 20:37:02,384 INFO service: DEFAULT_GROUP@@orderserver {POS} {IP-ENABLED} valid: 192.168.63.1:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-15 20:37:10,072 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-15 20:37:12,084 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:10010@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1715776617082
+
+2024-05-15 20:37:20,118 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-15 20:37:27,259 INFO service: DEFAULT_GROUP@@gateway {POS} {IP-ENABLED} valid: 192.168.63.1:10010@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-15 20:37:27,307 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-15 20:37:27,307 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2024-05-15 20:37:35,189 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-15 20:37:42,358 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.63.1:10010:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-05-15 20:37:42,358 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.63.1:10010_true,
+
+2024-05-15 20:37:52,631 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 192.168.63.1:8080_true,
+
+2024-05-15 20:37:55,316 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-15 20:38:02,298 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:10010@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1715776662357
+
+2024-05-15 20:38:02,465 INFO service: DEFAULT_GROUP@@gateway {POS} {IP-ENABLED} valid: 192.168.63.1:10010@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-15 20:38:10,389 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-15 20:38:12,304 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:8080@DEFAULT@DEFAULT_GROUP@@orderserver, region: unknown, msg: client timeout after 15000, last beat: 1715776672631
+
+2024-05-15 20:38:17,741 INFO service: DEFAULT_GROUP@@orderserver {POS} {IP-ENABLED} valid: 192.168.63.1:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-15 20:38:22,305 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:10010@DEFAULT@DEFAULT_GROUP@@gateway, region: unknown, msg: client timeout after 15000, last beat: 1715776682465
+
+2024-05-15 20:38:25,489 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_true,
+
+2024-05-15 20:38:32,592 INFO service: DEFAULT_GROUP@@gateway {POS} {IP-ENABLED} valid: 192.168.63.1:10010@DEFAULT, region: unknown, msg: client beat ok
+
+2024-05-15 20:38:37,316 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:8080@DEFAULT@DEFAULT_GROUP@@orderserver, region: unknown, msg: client timeout after 15000, last beat: 1715776697741
+
+2024-05-15 20:38:52,336 INFO DEFAULT_GROUP@@orderserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.63.1:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2024-05-15 20:38:52,336 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@orderserver, ips: 
+
+2024-05-15 20:39:03,843 INFO {POS} {IP-DISABLED} valid: 192.168.63.1:9194@DEFAULT@DEFAULT_GROUP@@uservices, region: unknown, msg: client timeout after 15000, last beat: 1715776725579
+
+2024-05-15 20:39:05,656 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@uservices, ips: 192.168.63.1:9194_false,
+

@@ -1,0 +1,12 @@
+2024-05-15 20:29:35,753 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2024-05-15 20:29:35,755 ERROR nacos-XXXX [serverlist] failed to get serverlist from disk!, error : The IPv4 address("127.0.0.1.8842") is incorrect.
+
+2024-05-15 20:29:38,582 INFO This node is ready to provide external services
+
+2024-05-15 20:30:07,068 ERROR nacos-XXXX [serverlist] failed to get serverlist from disk!, error : The IPv4 address("127.0.0.1.8842") is incorrect.
+
+2024-05-15 20:30:07,068 ERROR nacos-XXXX [serverlist] failed to get serverlist from disk!, error : The IPv4 address("127.0.0.1.8842") is incorrect.
+
+2024-05-15 20:32:55,807 ERROR nacos-XXXX [serverlist] failed to get serverlist from disk!, error : The IPv4 address("127.0.0.1.8842") is incorrect.
+
